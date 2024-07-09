@@ -1,0 +1,3 @@
+[submodule "USB Cable Tester/JLCPCB-Kicad-Library"]
+	path = USB Cable Tester/JLCPCB-Kicad-Library
+	url = https://github.com/CDFER/JLCPCB-Kicad-Library.git
