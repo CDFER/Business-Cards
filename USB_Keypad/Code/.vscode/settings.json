@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "algorithm": "cpp",
+        "usbd_hid_consumer_if.h": "c"
+    },
+    "cSpell.words": [
+        "Adafruit",
+        "mosfet",
+        "neopixel"
+    ]
+}

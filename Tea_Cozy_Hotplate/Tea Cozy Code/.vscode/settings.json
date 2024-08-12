@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "algorithm": "cpp"
+    },
+    "cSpell.words": [
+        "Adafruit",
+        "mosfet",
+        "neopixel"
+    ]
+}
