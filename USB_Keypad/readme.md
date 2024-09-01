@@ -1,11 +1,13 @@
 **USB MicroPad**
-=====================================
+================
+
 ![PCB Render](<USB Keypad.jpg>)
-![PCB in Real life](DSC05812.JPG)
+![PCB in Real Life](<DSC05812.JPG>)
+![PCB Schematic](<USB Keypad.svg>)
 
 ### Overview
 
-The USB MicroPad is a 8-button macro pad that can be used for a variety of applications, from productivity shortcuts to copy and paste macros. It is implemented as a USB HID keyboard and HID media consumer controller, making it compatible with all 3 major operating systems without requiring additional drivers.
+The USB MicroPad is an 8-button macro pad for various applications, from productivity shortcuts to copy and paste macros. It's implemented as a USB HID keyboard and HID media consumer controller, ensuring compatibility with major operating systems without additional drivers.
 
 ### Features
 
@@ -19,9 +21,9 @@ The USB MicroPad is a 8-button macro pad that can be used for a variety of appli
 
 #### STM32 Specifications
 
-* **CPU**: Arm Cortex-M3 @ 72Mhz
+* **CPU**: Arm Cortex-M3 @ 72MHz
 * **Flash**: 64KB
-* **Ram**: 20KB
+* **RAM**: 20KB
 * **Package**: LQFP-48
 
 #### Components
@@ -32,7 +34,7 @@ The USB MicroPad is a 8-button macro pad that can be used for a variety of appli
 * **Fuse**: 1.5A Resettable Fuse
 * **USB Connector**: USB-C Receptacle
 
-![alt text](DSC05815.JPG)
+![Minifig Conversation](<DSC05815.JPG>)
 
 ### Issues with V1
 
@@ -41,11 +43,10 @@ The USB MicroPad is a 8-button macro pad that can be used for a variety of appli
 
 ### Improvements for V2
 
-* 3V3 LED is too bright (maybe half brightness)
-* Move to cheaper USB-C connector
-* Better buttons?
+* Reduce 3V3 LED brightness (half brightness)
+* Use a cheaper USB-C connector
+* Consider better buttons
 * Remove reset button?
-
 
 ### Assembly and Programming
 

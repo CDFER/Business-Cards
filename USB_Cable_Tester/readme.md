@@ -1,8 +1,10 @@
 **USB Cable Tester**
 =====================
 
-![PCB Render](USB Cable Tester.jpg)
+![PCB Render](<USB Cable Tester.jpg>)
 ![PCB in Real Life](DSC05738.JPG)
+![PCB Schematic](<USB Cable Tester.svg>)
+
 
 ### Overview
 
