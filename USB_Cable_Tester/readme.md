@@ -35,10 +35,10 @@ The USB Cable Tester is a simple, battery-powered device for testing USB cables.
 
 * Move A and B sides closer together to accommodate super short cables (10cm) for testing
 * Utilize better LED binning or regulate voltage for consistent LED brightness
-* Employ color-coded LEDs for pin groups (power, data, config) using distinct colors
-* Integrate Apple Lightning connector for added compatibility
+* Add color-coded LEDs for pin groups (power, data, config) using distinct colors
+* Add Apple Lightning connector
 * Verify LED brightness versus current draw to prevent excessive coin cell drain
-* Add AND gate for USB-C CC pins (per specification, cables should connect only one CC pin)
+* Add OR gate for USB-C CC pins (per specification, cables should connect only one CC pin)
 * Include warning: use only with a cable; never plug directly into a USB device
 * Reinforce USB-C with stitched vias and pads (similar to micro-B connector)
 * Add silkscreen instructions for easy device usage
