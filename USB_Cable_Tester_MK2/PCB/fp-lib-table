@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JLC2KiCadLib")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/JLC2KiCadLib")(options "")(descr ""))
+  (lib (name "JLCPCB-Kicad-Footprints")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Footprints")(options "")(descr ""))
+)
