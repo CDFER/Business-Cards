@@ -6,16 +6,16 @@ Welcome to my PCB business cards, a collection of functional devices showcasing 
 
 ![WLED Matrix](WLED_Matrix/DSC05843.JPG)
 
-## USB Cable Tester
+## USB Cable Tester MK2
 
-![PCB Render](<USB_Cable_Tester/USB Cable Tester.jpg>)
-![PCB in Real Life](<USB_Cable_Tester/DSC05738.JPG>)
+![PCB Render](<USB_Cable_Tester_MK2/USB Cable Tester.jpg>)
+![PCB in Real Life](<USB_Cable_Tester_MK2/DSC05968.JPG>)
 
 * Simple, battery-powered USB 2.0 and 3.0 cable tester
 * Protected by Schottky diodes and a polyfuse
-* Indicates test results with 0603 green LEDs
+* Indicates test results with LEDs
 
-[Project Page](https://github.com/CDFER/Business-Cards/tree/main/USB_Cable_Tester)
+[Project Page](https://github.com/CDFER/Business-Cards/tree/main/USB_Cable_Tester_MK2)
 
 ## Tea Cozy Hotplate
 
@@ -46,6 +46,17 @@ Welcome to my PCB business cards, a collection of functional devices showcasing 
 * Controlled from any web browser using WLED firmware
 
 [Project Page](https://github.com/CDFER/Business-Cards/tree/main/WLED_Matrix)
+
+## USB Cable Tester MK1
+
+![PCB Render](<USB_Cable_Tester/USB Cable Tester.jpg>)
+![PCB in Real Life](<USB_Cable_Tester/DSC05738.JPG>)
+
+* Simple, battery-powered USB 2.0 and 3.0 cable tester
+* Protected by Schottky diodes and a polyfuse
+* Indicates test results with 0603 green LEDs
+
+[Project Page](https://github.com/CDFER/Business-Cards/tree/main/USB_Cable_Tester)
 
 ### Support
 
