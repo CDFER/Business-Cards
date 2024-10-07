@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "JLC2KiCadLib")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/JLC2KiCadLib.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Capacitors")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Capacitors.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Connectors_Buttons")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Connectors_Buttons.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Diodes")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Diodes.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Inductors")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Inductors.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Manufacturing")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Manufacturing.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-MCUs")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-MCUs.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Power")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Power.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Resistors")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Resistors.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB-Transistors")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-Kicad-Library/JLCPCB-Kicad-Symbols/JLCPCB-Transistors.kicad_sym")(options "")(descr ""))
+)
